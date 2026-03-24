@@ -1,0 +1,12 @@
+# Python 缓存和虚拟环境
+__pycache__/
+.venv/
+.env
+
+# 编译器/IDE 配置
+.vscode/
+.idea/
+
+# 较大的数据文件或临时文件
+*.mat/
+*.log
